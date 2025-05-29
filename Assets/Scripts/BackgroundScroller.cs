@@ -6,7 +6,7 @@ public class BackgroundScroller : MonoBehaviour
     public float backgroundWidth = 20f;          // Szerokość pojedynczej grafiki tła w jednostkach Unity
 
     private Vector3 startPosition;
-
+    // jebać pały i sąd cały
     void Start()
     {
         startPosition = transform.position; // Zapisujemy początkową pozycję tła
